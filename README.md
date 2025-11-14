@@ -128,3 +128,5 @@ cd build
 cmake -G "Visual Studio 15 2017" -A Win32 ..
 ```
 Then use Visual studio to build the generated ck-cmd solutions (ck-cmd.sln)
+
+test test test test test
